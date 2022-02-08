@@ -3,7 +3,7 @@
                 //int plosad = 0;
                 //Console.WriteLine("Длина первой стены ");
                 //int dlina1 = int.Parse(Console.ReadLine());
-                //Console.WriteLine("Длина второй стены ?");
+                //Console.WriteLine("Длина второй стены ");
                 //int dlina2 = int.Parse(Console.ReadLine());
                 //plosad = dlina1 * dlina2;
                 //Console.WriteLine($"Площадь пола = {plosad}");
