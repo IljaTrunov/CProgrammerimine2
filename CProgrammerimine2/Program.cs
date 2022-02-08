@@ -9,11 +9,11 @@
                 //Console.WriteLine($"Площадь пола = {plosad}");
                 //Console.WriteLine("Ремонт запилить?");
                 //string remont = Console.ReadLine();
-                /* if (remont.ToUpper() == "YES" || remont.ToUpper() == "JAH")
+                /* if (remont.ToUpper() == "YES" || remont.ToUpper() == "ДА")
               {
                   Console.WriteLine("Сколько стоит метр?");
-                  int ruutmeeter = int.Parse(Console.ReadLine());
-                  summa = pind * ruutmeeter;
+                  int mt = int.Parse(Console.ReadLine());
+                  summa = plosad * mt ;
                   Console.WriteLine($"Вы заплатите {summa}");
               }
               else
