@@ -11,14 +11,14 @@
                 //string remont = Console.ReadLine();
                 /* if (remont.ToUpper() == "YES" || remont.ToUpper() == "JAH")
               {
-                  Console.WriteLine("Kui palju maksab ruutmeeter?");
+                  Console.WriteLine("Сколько стоит метр?");
                   int ruutmeeter = int.Parse(Console.ReadLine());
                   summa = pind * ruutmeeter;
-                  Console.WriteLine($"On vaja maksta {summa}");
+                  Console.WriteLine($"Вы заплатите {summa}");
               }
               else
               {
-                  Console.WriteLine("Kui ei taha, siis ei taha!");
+                  Console.WriteLine("досвидули!");
               }
               /*Console.ReadKey();
                 //Console.WriteLine("Сколько градусов в вашей комнате?");
