@@ -28,3 +28,4 @@
                 //    Console.WriteLine("Ваша температура в комнате выше 18 градусов");
                 //    string otvet = Console.ReadLine();
                 //}
+                //Console.ReadKey();
