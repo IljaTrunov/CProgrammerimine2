@@ -1,19 +1,19 @@
 
                 //}
-                //int plosad = 0;
+                //int pp = 0;
                 //Console.WriteLine("Длина первой стены ");
-                //int dlina1 = int.Parse(Console.ReadLine());
+                //int long_1 = int.Parse(Console.ReadLine());
                 //Console.WriteLine("Длина второй стены ");
-                //int dlina2 = int.Parse(Console.ReadLine());
-                //plosad = dlina1 * dlina2;
-                //Console.WriteLine($"Площадь пола = {plosad}");
+                //int long_2 = int.Parse(Console.ReadLine());
+                //pp = long_1 * long_2;
+                //Console.WriteLine($"Площадь пола = {pp}");
                 //Console.WriteLine("Ремонт запилить?");
                 //string remont = Console.ReadLine();
                 /* if (remont.ToUpper() == "YES" || remont.ToUpper() == "ДА")
               {
                   Console.WriteLine("Сколько стоит метр?");
                   int mt = int.Parse(Console.ReadLine());
-                  summa = plosad * mt ;
+                  summa = pp * mt ;
                   Console.WriteLine($"Вы заплатите {summa}");
               }
               else
